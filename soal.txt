@@ -1,0 +1,16 @@
+Simple test, 
+
+Create grouping data from data.dat and create ouput json like this 
+
+1. Output 
+{
+  some_string : 20,
+  other_string : 10,
+}
+
+Rule 
+- Grouping word without add any symbol or character, just number or work 
+- order the result DESC by count words from article
+- you can use any programming language 
+
+have Fun
